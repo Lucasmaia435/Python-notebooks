@@ -10,7 +10,6 @@ Para executar os Notebook's é necessário a instalação do Jupyter Notebook no
 Há duas maneiras de instalarmos o Jupyter Notebook no computador, uma delas é através da [Distribuição Anaconda](https://docs.anaconda.com/anaconda/install/) e outra diretamente pelo terminal. Ao instalar a Distribuição, o Jupyter Notebook, já está pronto para ser executado.
 
 Tendo o Python3 ou uma versão mais atual do Python use : 
-
 ```console
 (<nome_do_ambiente>) user@computer:~$ python3 -m pip install --upgrade pip 
 (<nome_do_ambiente>) user@computer:~$ python3 -m pip install jupyter
