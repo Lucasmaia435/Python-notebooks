@@ -22,12 +22,12 @@ Caso tenha o Python2 use :
 
 Para executar o Jupyter Notebook :
 ```console
-(<nome_do_ambiente>) user@computer:~$ Jupyter Notebook
+(<nome_do_ambiente>) user@computer:~$ jupyter notebook
 ```
 ### Abrindo o Notebook
 
 Ao executar o Jupyter no seu terminal, ele irá abrir na respectiva pasta que você está, então é preferível que o Jupyet seja executado na pasta onde está o notebook.
 ```console
-(<nome_do_ambiente>) user@computer:~/pasta_do_notebook$ Jupyter Notebook
+(<nome_do_ambiente>) user@computer:~/pasta_do_notebook$ jupyter notebook
 ```
 E então, logo que o Jupyter abrir basta acessar o notebook.
