@@ -1,8 +1,8 @@
 ## Bem Vindo
 Esse repositório foi criado com o intuito da produção de materiais OpenSource para o ensino de python, usando jupyter notebook, afim de facilitar o aprendizado e a propagação de python na lingua portuguesa.
 ### Temas abordados
-- [x] Python básico ao intermediário
-- [x] Visualização de dados com Python
+- [x] [Python básico ao intermediário](https://github.com/Lucasmaia435/Python-notebooks/blob/master/Curso%20de%20Python.ipynb)
+- [x] [Visualização de dados com Python](https://github.com/Lucasmaia435/Python-notebooks/blob/master/Visualiza%C3%A7%C3%A3o%20de%20dados.ipynb)
 - [ ] Analíse de dados com Pandas e Numpy
 - [ ] Manipulação e visualização de dados com python
 
