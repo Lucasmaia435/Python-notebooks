@@ -1,3 +1,13 @@
+## Bem Vindo
+Esse repositório foi criado com o intuito da produção de materiais OpenSource para o ensino de python, usando jupyter notebook, afim de facilitar o aprendizado e a propagação de python na lingua portuguesa.
+### Temas abordados
+- [x] Python básico ao intermediário
+- [x] Visualização de dados com Python
+- [ ] Analíse de dados com Pandas e Numpy
+- [ ] Manipulação e visualização de dados com python
+
+Os temas que estão em aberto, são materiais que ainda estão em desenvolvimento. Logo em baixo você poderá ver como executar um arquivo com o jupyter
+
 ## Jupyter Notebook
 
 Para executar os Notebook's é necessário a instalação do Jupyter Notebook no computador do usuário, Try Jupyter na web ou pelo Colaboratory da Google.
